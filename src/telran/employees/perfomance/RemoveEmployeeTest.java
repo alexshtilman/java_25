@@ -2,9 +2,9 @@ package telran.employees.perfomance;
 
 import java.util.ArrayList;
 
+import telran.employees.dto.Employee;
+import telran.employees.dto.GeneratorMode;
 import telran.employees.services.impl.EmployeeServiceImpl;
-import telran.emplyees.dto.Employee;
-import telran.emplyees.dto.GeneratorMode;
 import telran.perforamnse.PerformanceTest;
 
 public class RemoveEmployeeTest extends PerformanceTest {

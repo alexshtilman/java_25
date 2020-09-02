@@ -7,8 +7,8 @@ import java.util.List;
 import java.util.Random;
 import java.util.stream.Collectors;
 
-import telran.emplyees.dto.Employee;
-import telran.emplyees.dto.GeneratorMode;
+import telran.employees.dto.Employee;
+import telran.employees.dto.GeneratorMode;
 
 public class EmployeeGenerator {
 

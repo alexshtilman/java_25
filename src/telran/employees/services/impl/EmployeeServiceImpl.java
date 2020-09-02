@@ -10,9 +10,9 @@ import java.util.NavigableMap;
 import java.util.SortedMap;
 import java.util.TreeMap;
 
-import telran.emplyees.dto.Employee;
-import telran.emplyees.dto.ReturnCodes;
-import telran.emplyees.services.interfaces.EmployeeService;
+import telran.employees.dto.Employee;
+import telran.employees.dto.ReturnCodes;
+import telran.employees.services.interfaces.EmployeeService;
 
 public class EmployeeServiceImpl implements EmployeeService {
 	HashMap<Long, Employee> employees = new HashMap<>();

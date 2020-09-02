@@ -1,6 +1,6 @@
 package telran.employees.perfomance;
 
-import telran.emplyees.dto.GeneratorMode;
+import telran.employees.dto.GeneratorMode;
 
 public class EmployeePerformanceTestsApp {
 	public static void main(String[] args) {
